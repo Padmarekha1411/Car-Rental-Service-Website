@@ -1,0 +1,13 @@
+INDEX VERSION 1.134
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2206010809.index
+\CarServiceProject\src\main\java
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3616946897.index
+\VegetableShop\src\main\java
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3273658594.index
+\CarServiceProject\src\main\java
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1510664718.index
+\FreshShop\src\main\java
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2226992672.index
+\FreshShop\src\main\java
+D:\Internship\CarService\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\957966974.index
+\RoyalCars\src\main\java
