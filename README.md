@@ -1,6 +1,6 @@
-Programming Language : Javascript,J2EE(JSP + Servlets),J2SE,HTML, CSS, Bootstrap.
-Database : MySQL
-Summary : This is a project for Car Rental System. A user can perform many kinds of
-management tasks to manage rent and car records like adding a new car as well as
-modifying and removing it. Also, users can view all rental records, check car details as well
-as rent and change rent details from rental records.
+• Tech :- J2SE, J2EE (JSP + Servlets), Spring boot , HTML, CSS, JavaScript, Bootstrap, MySQL.
+• Project Details:
+      - The "Car Rental Service Website" project aims to provide an online platform for users to easily rent vehicles for various purposes. 
+      - The website will offer a user-friendly interface where customers can browse available vehicles, check their specifications, view rental rates, and make reservations. 
+      - Additionally, the website will include features for admin users to manage vehicle listings, rental schedules, customer bookings.
+      - The project seeks to streamline the process of renting cars, providing convenience and flexibility to both customers and administrators.
